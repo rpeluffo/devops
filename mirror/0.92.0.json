@@ -1,0 +1,16 @@
+{
+  "archives": {
+    "linux_amd64": {
+      "hashes": [
+        "h1:gEss1CYtwBknBv7k+qjk+dBz7XwGyl7YQi1MDYkYGZg="
+      ],
+      "url": "terraform-provider-snowflake_0.92.0_linux_amd64.zip"
+    },
+    "windows_amd64": {
+      "hashes": [
+        "h1:T5NYWiiA6gLCVg0Sf1wAjP1kCB8WDZ7Vm/iJ5FXxMMQ="
+      ],
+      "url": "terraform-provider-snowflake_0.92.0_windows_amd64.zip"
+    }
+  }
+}
